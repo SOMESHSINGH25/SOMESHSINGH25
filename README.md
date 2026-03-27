@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Somesh Singh
 
-🚀 AI Systems Builder | B.Tech IT @ BVDUCOE Pune  
+🚀 AI Systems Builder | B.Tech IT  
 📍 Pune, Maharashtra, India  
 
 ---
